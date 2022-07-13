@@ -1,8 +1,7 @@
 # RandomTools
 Small scripts and tools that are helpful
 
-
-add_commas 
+## add_commas 
 Put a list of numbers into a file called 'NeedCommas.txt' in the same directory as the script. The script will then add commas to the end of each number (except the last) and save the file. It will also print numbers + ,
 
 I made this as I kept getting a bunch of Ids from SQL and I wanted to do a WHERE 'x' IN (large list of numbers that needs commas).
